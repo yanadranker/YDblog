@@ -2,6 +2,4 @@ title: Yana's blog
 email: drunkeryana@gmail.com
 
 # Build settings
-theme: minima
-math_engine: mathjax
-footer: docs/custom/footer
+theme: Lagrange
