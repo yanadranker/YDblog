@@ -3,4 +3,5 @@ email: drunkeryana@gmail.com
 
 # Build settings
 theme: minima
+math_engine: mathjax
 footer: docs/custom/footer
